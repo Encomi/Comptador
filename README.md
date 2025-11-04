@@ -1,0 +1,2 @@
+# Comptador
+Comptador més menys
